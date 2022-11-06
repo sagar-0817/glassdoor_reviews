@@ -11,4 +11,5 @@ Data Analysis of Glassdoor Reviews from 2017-2021
 ## Project Contents
 
 - [glassdoor_reviews.csv](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews)
+    - a Kaggle dataset containing around **850K** job reviews from [Glassdoor](https://www.glassdoor.com/Job/index.htm) across many years and various companies, locations, job titles
 - [reviews_cleansed.sql](https://github.com/sagar-0817/glassdoor_reviews/blob/main/reviews_cleansed.sql)
