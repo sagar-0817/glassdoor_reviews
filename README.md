@@ -15,3 +15,10 @@ Data Analysis of Glassdoor Reviews from 2017-2021
 - [reviews_cleansed.sql](https://github.com/sagar-0817/glassdoor_reviews/blob/main/reviews_cleansed.sql)
     - the SQL script contains the query that considers all reviews from 2017 and performs transformation
     - the query is saved as a view which is materialized to power the dashboard
+
+## Notes
+
+- The original raw data contains around **850K** job reviews
+- The job reviews from 2017 are only considered
+- The companies with at least 500 reviews are only considered
+- Post transformation, the cleansed data contains around **520K** job reviews
